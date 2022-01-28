@@ -1,2 +1,8 @@
 # Hackathons
 Hackathons -GL
+
+Wilson Mega Hackathon:
+The aim of the problem is to predict whether an applicant will default on the Home loan payment or not. This prediction can be extremely useful for any loan disbursing financial services organization. For each ID in the Test Dataset, one should predict the “Default” level. 
+
+My Rank : 82/746
+
